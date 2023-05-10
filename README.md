@@ -1,2 +1,2 @@
 # pruebas_entornos
-uishvgjisdovnsdok
+Prueba de la clase de entornos de desarrollo
